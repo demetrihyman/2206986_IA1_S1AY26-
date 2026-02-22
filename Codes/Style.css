@@ -424,6 +424,17 @@ dd{
     box-shadow: var(--shadow-md);
 }
 
+ /* Storyboard */
+
+ .font1{
+    font-family: var(--font-primary);
+    font-size: 25px;
+ }
+.font2{
+    font-family: var(--font-secondary);
+    font-size: 25px;
+ }
+
 
 
 /* Desktop*/
